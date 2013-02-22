@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1361542978 source:c:\users\lenovo\desktop\codeblocks\yeah\project_real_villanueva\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361543272 c:\users\lenovo\desktop\codeblocks\yeah\project_real_villanueva\project.h
+	<iostream>
+	<cstdlib>
+
+1361541651 source:c:\users\lenovo\desktop\codeblocks\yeah\project_real_villanueva\project.cpp
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+	"Project.h"
+
